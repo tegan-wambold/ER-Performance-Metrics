@@ -1,6 +1,9 @@
 # ER-Performance-Metrics
-This Power BI Report analyzes key emergency room performance metrics to understand how staffing, wait times, and patient satisfaction affect each other. 
-The data for this was simulated based off of real-world emergency room dynamics and healthcare industry reports to create a realistic ER data set. 
+This Power BI Report analyzes key emergency room performance metrics to understand how staffing, wait times, and patient satisfaction affect each other. Using simulated hospital data, the report provides insight into the operational efficicnecy, patient outcomes, and the relationship between nursre-to-patient ratios and service quality. 
+
+# Data
+The data used was simulated based off of real-world emergency room dynamics and healthcare industry reports to create a realistic and publicly available ER data set. 
+Link to data [https://www.kaggle.com/datasets/rivalytics/er-wait-time].
 
 # Questions
 1. How do patient volume totals change across time of day, day of the week, and season/month of the year?
@@ -9,6 +12,12 @@ The data for this was simulated based off of real-world emergency room dynamics 
 4. How do staffing levels (nurse-to-patient ratios) affect wait times and patient satisfaction?
 5. How does urgency level of cases affect wait times and outcome?
 6. How does case outcome affect patient satisfaction?
+
+# Key Insights
+1. Patient volumes highest during the afternoon and evening.
+2. Wait time increases exponentially as nurse-to-patient ratio increases.
+3. Patient satisfaction decreases and nurse workload increases.
+4. More urgent cases are seen faster, have lower nurse-to-patient ratios, and report higher patient satisfaction.
 
 # Summary of Insights
 1. ERs with lower nurse-to-patient ratios maintain shorter wait times and higher patient satisfactions.
