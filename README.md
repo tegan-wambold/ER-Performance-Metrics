@@ -15,11 +15,13 @@ Link to data [https://www.kaggle.com/datasets/rivalytics/er-wait-time].
 5. How does urgency level of cases affect wait times and outcome?
 6. How does case outcome affect patient satisfaction?
 
-# Key Insights
+# Key Findings
 1. Patient volumes highest during the afternoon and evening.
 2. Wait time increases exponentially as nurse-to-patient ratio increases.
 3. Patient satisfaction decreases and nurse workload increases.
 4. More urgent cases are seen faster, have lower nurse-to-patient ratios, and report higher patient satisfaction.
+
+<img width="925" height="511" alt="image" src="https://github.com/user-attachments/assets/88500341-6f94-4a4b-87b7-0ea8d5718d3a" />
 
 # Summary of Insights
 1. ERs with lower nurse-to-patient ratios maintain shorter wait times and higher patient satisfactions.
