@@ -3,6 +3,8 @@ This Power BI Report analyzes key emergency room performance metrics to understa
 
 <img width="2323" height="638" alt="image" src="https://github.com/user-attachments/assets/00d51779-5379-48e0-99c3-014575172e69" />
 
+Full report screenshots as well as complete PowerBI file (.pbix) included in repository.
+
 # Data
 The data used was simulated based off of real-world emergency room dynamics and healthcare industry reports to create a realistic and publicly available ER data set. 
 Link to data [https://www.kaggle.com/datasets/rivalytics/er-wait-time].
