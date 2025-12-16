@@ -1,5 +1,5 @@
 # ER-Performance-Metrics
-This Power BI Report analyzes key emergency room performance metrics to understand how staffing, wait times, and patient satisfaction affect each other. Using simulated hospital data, the report provides insight into the operational efficicnecy, patient outcomes, and the relationship between nursre-to-patient ratios and service quality. 
+This Power BI Report analyzes key emergency room performance metrics to understand how staffing, wait times, and patient satisfaction affect each other. Using simulated hospital data, the report provides insight into the operational efficiency, patient outcomes, and the relationship between nurse-to-patient ratios and service quality. 
 
 <img width="2323" height="638" alt="image" src="https://github.com/user-attachments/assets/00d51779-5379-48e0-99c3-014575172e69" />
 
